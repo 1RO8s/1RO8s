@@ -1,14 +1,14 @@
 ### Profile
 <p>
-  <a href="https://github.com/1ro8s/1ro8s">
+  <a href="https://github.com/1RO8s/1RO8s">
     <img
-         src="https://github-readme-stats.vercel.app/api?username=1ro8s&amp;show_icons=true"
+         src="https://github-readme-stats.vercel.app/api?username=1RO8s&amp;show_icons=true"
          alt="1RO8s's GitHub stats"
          style="height: 180px;">
   </a>
-  <a href="https://github.com/1ro8s/1ro8s">
+  <a href="https://github.com/1RO8s/1RO8s">
     <img 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=1RO8s&layout=compact"
+         src="https://github-readme-stats.vercel.app/api/top-langs/?username=1RO8s&amp;layout=compact"
          alt="Top Langs"
          style="height: 180px;">
   </a>
