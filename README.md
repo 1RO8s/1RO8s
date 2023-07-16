@@ -1,4 +1,6 @@
 ### Profile
+[![hnagasak's 42 stats](https://badge42.vercel.app/api/v2/clk4utimp000608jlz3ndih6w/stats?cursusId=21&coalitionId=307)](https://github.com/JaeSeoKim/badge42)
+
 <p>
   <a href="https://github.com/1RO8s/1RO8s">
     <img
@@ -13,6 +15,8 @@
          style="height: 180px;">
   </a>
 </p>
+
+
 
 <!--
 **1RO8s/1RO8s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
